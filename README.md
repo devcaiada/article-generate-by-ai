@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src=".github/assets/preview.png"
+    width="400"  
+  />
+</p>
+
 # Criando Artigos Técnicos com ChatGPT e Lexica.art
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
@@ -14,28 +21,24 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ### ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  **título**  | Crie 10 headlines para nomes de artigos sobre o assunto Duck Dubugging.                                                                                                                                                                                                    |
-| **conteúdo** | Escreva um artigo explicando o que é duck debugging para uma criança de 12 anos que está interessada em tecnologia e engenharia de dados. O artigo deve ser fácil de entender, com frases curtas e exemplos simples, mas deve incluir os seguintes pontos:
+|     Ação     | prompt                                                                                                                                                                                                                                                                                                                |
+| :----------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  **título**  | Poderia me sugerir 10 headlines sugestivas que chamem atenção para o título: Bibliotecas Python Essenciais para Engenharia de Dados.                                                                                                                                                                                  |
+| **conteúdo** | Escreva um artigo detalhado sobre 'Uma análise das bibliotecas mais poderosas como Pandas, NumPy, PySpark e Dask para manipulação de dados em larga escala'. O artigo deve ser envolvente, utilizando uma linguagem leve, extrovertida e de fácil compreensão, mesmo para quem está começando na engenharia de dados. |
 
-1. **O que é duck debugging?**: Explique de forma simples o conceito de explicar um problema para entender melhor, como se estivesse falando com um pato de borracha.
+Destaque como cada uma dessas bibliotecas se destaca em termos de performance e escalabilidade, fornecendo exemplos práticos e comparações claras. Por exemplo, mostre quando e por que escolher Pandas para datasets menores, ou como PySpark e Dask resolvem desafios de processamento distribuído. O tom deve ser próximo ao de uma conversa amigável, utilizando analogias divertidas para simplificar conceitos técnicos complexos.
 
-2. **Como isso ajuda na engenharia de dados?**: Mostre exemplos práticos de como engenheiros de dados podem usar essa técnica para encontrar erros em grandes conjuntos de dados.
-
-3. **Passo a passo de como usar duck debugging**: Crie um guia simples de 3 passos para que uma criança possa usar essa técnica ao tentar resolver problemas em seus projetos escolares.
-
-4. **Por que funciona?**: Descreva por que explicar um problema ajuda a encontrar a solução. Dê exemplos de como isso funciona na vida real e na programação.
-
-5. **Use uma linguagem simples e divertida**: Explique tudo de forma leve e divertida, como se estivesse conversando com um amigo curioso. |
+Faça uso de listas, seções com títulos dinâmicos, e prompts diretos para manter o leitor engajado. Promova uma sensação de entusiasmo, explicando como essas bibliotecas podem transformar o trabalho com grandes volumes de dados e elevar a eficiência em projetos reais. |
 
 ### Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-   - Duck
-   - Cyber Duck
-   - Cute Duck
+  - Cyberpunk panda
+  - Fem robot
+  - Spark queen
+  - Angelic robot
+  - Cyberpunk Python
 
 ## ✨ Features
 
